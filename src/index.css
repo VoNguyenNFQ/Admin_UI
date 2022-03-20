@@ -12,6 +12,14 @@ code {
     monospace;
 }
 
+.sidebar-active {
+  background-color: #00daa0;
+}
+
+.sidebar-active span {
+  color: #fff;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

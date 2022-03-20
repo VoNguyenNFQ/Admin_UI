@@ -1,5 +1,4 @@
 import React from 'react';
-import searchIcon from '../search.svg'
 import RightBar from './RightBar';
 import SearchBar from './SearchBar';
 
